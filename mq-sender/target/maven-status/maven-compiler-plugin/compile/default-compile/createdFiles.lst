@@ -1,0 +1,9 @@
+com/alan/config/MqConfig$AlanQueue.class
+com/alan/config/MqConfig$BindToExchange.class
+com/alan/config/MqConfig$AlanExchange.class
+com/alan/config/ApplicationConfig.class
+com/alan/controller/SenderController.class
+com/alan/service/SenderService.class
+com/alan/RabbitMQSenderApplication.class
+com/alan/config/MqConfig.class
+com/alan/config/MqConfig$AlanBind.class

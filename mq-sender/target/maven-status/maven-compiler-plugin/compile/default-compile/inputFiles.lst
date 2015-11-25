@@ -1,0 +1,5 @@
+/Users/MichaelZhao/Workspace/spring-boot/demo-mq/mq-sender/src/main/java/com/alan/config/ApplicationConfig.java
+/Users/MichaelZhao/Workspace/spring-boot/demo-mq/mq-sender/src/main/java/com/alan/config/MqConfig.java
+/Users/MichaelZhao/Workspace/spring-boot/demo-mq/mq-sender/src/main/java/com/alan/service/SenderService.java
+/Users/MichaelZhao/Workspace/spring-boot/demo-mq/mq-sender/src/main/java/com/alan/controller/SenderController.java
+/Users/MichaelZhao/Workspace/spring-boot/demo-mq/mq-sender/src/main/java/com/alan/RabbitMQSenderApplication.java

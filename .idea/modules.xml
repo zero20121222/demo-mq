@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sprint-boot-mq.iml" filepath="$PROJECT_DIR$/sprint-boot-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-receiver/mq-receiver.iml" filepath="$PROJECT_DIR$/mq-receiver/mq-receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-sender/mq-sender.iml" filepath="$PROJECT_DIR$/mq-sender/mq-sender.iml" />
+    </modules>
+  </component>
+</project>
